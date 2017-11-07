@@ -1,6 +1,7 @@
 # QuanLyKhachSan
 
 Goals:
+
 -Quản lý thông tin phòng và khách sạn
 
 -Quản lý thông tin khách hàng
