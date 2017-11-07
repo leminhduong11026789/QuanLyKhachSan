@@ -2,9 +2,13 @@
 
 Goals:
 -Quản lý thông tin phòng và khách sạn
+
 -Quản lý thông tin khách hàng
+
 -Đặt phòng, hủy đặt phòng
+
 -Thanh toán cho khách hàng
+
 -Quản lý báo cáo: Xem báo cáo, tạo hóa đơn,...
 
 Objectives:
