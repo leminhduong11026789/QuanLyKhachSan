@@ -13,6 +13,7 @@ Goals:
 -Quản lý báo cáo: Xem báo cáo, tạo hóa đơn,...
 
 Objectives:
+
 1 Quản lý thông tin phòng,thông tin khách sạn
 
   Tìm đặt phòng theo yêu cầu
